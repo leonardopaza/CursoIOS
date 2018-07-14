@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="14113" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="Som_dos_bichos" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <stackView opaque="NO" contentMode="scaleToFill" axis="vertical" spacing="14" translatesAutoresizingMaskIntoConstraints="NO" id="6yH-Lk-WUD">
+                                <rect key="frame" x="56" y="109.5" width="263" height="448"/>
+                                <subviews>
+                                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="logo" translatesAutoresizingMaskIntoConstraints="NO" id="HI4-Fa-whM">
+                                        <rect key="frame" x="0.0" y="0.0" width="263" height="72"/>
+                                    </imageView>
+                                    <stackView opaque="NO" contentMode="scaleToFill" distribution="fillProportionally" translatesAutoresizingMaskIntoConstraints="NO" id="G1R-OD-iD3">
+                                        <rect key="frame" x="0.0" y="86" width="263" height="102"/>
+                                        <subviews>
+                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="RDo-nH-sw7">
+                                                <rect key="frame" x="0.0" y="0.0" width="128.5" height="102"/>
+                                                <state key="normal" image="cao"/>
+                                                <connections>
+                                                    <action selector="cao:" destination="BYZ-38-t0r" eventType="touchUpInside" id="6Oo-aY-x72"/>
+                                                </connections>
+                                            </button>
+                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="4FR-ms-f6I">
+                                                <rect key="frame" x="128.5" y="0.0" width="134.5" height="102"/>
+                                                <state key="normal" image="gato"/>
+                                                <connections>
+                                                    <action selector="gato:" destination="BYZ-38-t0r" eventType="touchUpInside" id="qUa-LQ-2Vl"/>
+                                                </connections>
+                                            </button>
+                                        </subviews>
+                                    </stackView>
+                                    <stackView opaque="NO" contentMode="scaleToFill" distribution="fillProportionally" translatesAutoresizingMaskIntoConstraints="NO" id="wGZ-m4-qbL">
+                                        <rect key="frame" x="0.0" y="202" width="263" height="116"/>
+                                        <subviews>
+                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="tNz-8B-vD5">
+                                                <rect key="frame" x="0.0" y="0.0" width="131.5" height="116"/>
+                                                <state key="normal" image="leao"/>
+                                                <connections>
+                                                    <action selector="leao:" destination="BYZ-38-t0r" eventType="touchUpInside" id="IBy-TY-luN"/>
+                                                </connections>
+                                            </button>
+                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Fsp-qc-BNI">
+                                                <rect key="frame" x="131.5" y="0.0" width="131.5" height="116"/>
+                                                <state key="normal" image="macaco"/>
+                                                <connections>
+                                                    <action selector="macaco:" destination="BYZ-38-t0r" eventType="touchUpInside" id="bMN-eR-IKg"/>
+                                                </connections>
+                                            </button>
+                                        </subviews>
+                                    </stackView>
+                                    <stackView opaque="NO" contentMode="scaleToFill" distribution="fillProportionally" translatesAutoresizingMaskIntoConstraints="NO" id="5JJ-Za-67k">
+                                        <rect key="frame" x="0.0" y="332" width="263" height="116"/>
+                                        <subviews>
+                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Zcl-e6-nk1">
+                                                <rect key="frame" x="0.0" y="0.0" width="131.5" height="116"/>
+                                                <state key="normal" image="ovelha"/>
+                                                <connections>
+                                                    <action selector="ovelha:" destination="BYZ-38-t0r" eventType="touchUpInside" id="LMG-W4-Bgv"/>
+                                                </connections>
+                                            </button>
+                                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="qMf-rl-3t9">
+                                                <rect key="frame" x="131.5" y="0.0" width="131.5" height="116"/>
+                                                <state key="normal" image="vaca"/>
+                                                <connections>
+                                                    <action selector="vaca:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Acg-6e-Foa"/>
+                                                </connections>
+                                            </button>
+                                        </subviews>
+                                    </stackView>
+                                </subviews>
+                            </stackView>
+                        </subviews>
+                        <color key="backgroundColor" red="0.96410853525347973" green="0.91456552015931747" blue="0.70389600774884664" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <constraints>
+                            <constraint firstItem="6yH-Lk-WUD" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="BAQ-EP-LtP"/>
+                            <constraint firstItem="6yH-Lk-WUD" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="DUI-s8-uYg"/>
+                        </constraints>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="cao" width="108" height="102"/>
+        <image name="gato" width="113" height="102"/>
+        <image name="leao" width="108" height="101"/>
+        <image name="logo" width="263" height="72"/>
+        <image name="macaco" width="108" height="116"/>
+        <image name="ovelha" width="113" height="101"/>
+        <image name="vaca" width="113" height="116"/>
+    </resources>
+</document>
