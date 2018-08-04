@@ -14,4 +14,4 @@ Projetos do curso de IOS 11.
 * Lembrando que deve-se ativar no firebase a opção de autenticar com email e senha, e ainda ativar os recursos de database e storage!
 
 ## TESTE ##
-![alt idade](https://raw.githubusercontent.com/leonardopaza/cursoIOS11/master/APP01/ScreenShots/IdadeiPhone8.png | width=100)
+![alt idade](https://raw.githubusercontent.com/leonardopaza/cursoIOS11/master/APP01/ScreenShots/IdadeiPhone8.png =100x250)
