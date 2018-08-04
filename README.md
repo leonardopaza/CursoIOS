@@ -16,4 +16,4 @@ Projetos do curso de IOS 11.
 ## APP01 ##
 * Primeiro App do curso onde se calcula a idade do cachorro numa simples interface.
 * Screenshot do APP01:
-<br/>  <img src="https://raw.githubusercontent.com/leonardopaza/cursoIOS11/master/APP01/ScreenShots/IdadeiPhone8.png" width="150">
+<br/>  <img src="https://raw.githubusercontent.com/leonardopaza/cursoIOS11/master/APP01/Screenshots/APP01iPhone8.png" width="150">
