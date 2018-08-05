@@ -32,3 +32,8 @@ Projetos do curso de IOS 11.
 * Quarto App do curso onde se calcula o que vale mais a pena entre álcool ou gasolina numa simples interface.
 * Screenshot do APP04:
 <br/>  <img src="https://raw.githubusercontent.com/leonardopaza/cursoIOS11/master/APP04/Screenshots/APP04iPhone8.png" width="150">
+
+## APP05 ##
+* Quinto App do curso onde se faz uma simulação de um app de consultoria numa interface com navegação.
+* Screenshot do APP05:
+<br/>  <img src="https://raw.githubusercontent.com/leonardopaza/cursoIOS11/master/APP05/Screenshots/APP05iPhone8_1.png" width="150"> <img src="https://raw.githubusercontent.com/leonardopaza/cursoIOS11/master/APP05/Screenshots/APP05iPhone8_2.png" width="150"> <img src="https://raw.githubusercontent.com/leonardopaza/cursoIOS11/master/APP05/Screenshots/APP05iPhone8_3.png" width="150">
