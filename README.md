@@ -1,17 +1,31 @@
-# CursoIOS11
-Projetos do curso de IOS 11.
+# Curso IOS11
+Projetos do curso de IOS 11 com Swift.
+
+## Pokemon GO Clone ##
+* Versão simples do famoso jogo mobile de Pokemon.
+* Screenshots do Pokemon GO Clone:
+<br/>  <img src="https://raw.githubusercontent.com/leonardopaza/cursoIOS11/master/PokemonGO%20Clone/Screenshots/PokemonGOCloneiPhone8_1.png" width="150"> <img src="https://raw.githubusercontent.com/leonardopaza/cursoIOS11/master/PokemonGO%20Clone/Screenshots/PokemonGOCloneiPhone8_2.png" width="150">
 
 ## Snapchat Clone ##
+* App Estilo da rede social snapchat com uso de firebase.
 * Para funcionamento do projeto de SnapchatClone necessário arquivo de configuração do seu projeto do firebase dentro do seu projeto do xcode, com o projeto aberto, você com o arquivo pode arrastá-lo para o projeto logo abaixo de seu arquivo info.plist.
 * Lembrando que deve-se ativar no firebase a opção de autenticar com email e senha, e ainda ativar os recursos de database e storage!
+* Screenshots do Snapchat Clone:
+<br/>  <img src="https://raw.githubusercontent.com/leonardopaza/cursoIOS11/master/Snapchat%20Clone/Screenshots/SnapchatCloneiPhone8_1.png" width="150"> <img src="https://raw.githubusercontent.com/leonardopaza/cursoIOS11/master/Snapchat%20Clone/Screenshots/SnapchatCloneiPhone8_2.png" width="150"> <img src="https://raw.githubusercontent.com/leonardopaza/cursoIOS11/master/Snapchat%20Clone/Screenshots/SnapchatCloneiPhone8_3.png" width="150"> <img src="https://raw.githubusercontent.com/leonardopaza/cursoIOS11/master/Snapchat%20Clone/Screenshots/SnapchatCloneiPhone8_4.png" width="150"> <img src="https://raw.githubusercontent.com/leonardopaza/cursoIOS11/master/Snapchat%20Clone/Screenshots/SnapchatCloneiPhone8_5.png" width="150">
 
 ## Uber Clone ##
+* App Estilo do uber com uso de firebase, visão de motorista e passageiro.
 * Para funcionamento do projeto de UberClone necessário arquivo de configuração do seu projeto do firebase dentro do seu projeto do xcode, com o projeto aberto, você com o arquivo pode arrastá-lo para o projeto logo abaixo de seu arquivo info.plist.
 * Lembrando que deve-se ativar no firebase a opção de autenticar com email e senha, e ainda ativar o recurso de database!
+* Screenshots do Uber Clone:
+<br/>  <img src="https://raw.githubusercontent.com/leonardopaza/cursoIOS11/master/Uber%20Clone/Screenshots/UberCloneiPhone8_1.png" width="150"> <img src="https://raw.githubusercontent.com/leonardopaza/cursoIOS11/master/Uber%20Clone/Screenshots/UberCloneiPhone8_2.png" width="150"> <img src="https://raw.githubusercontent.com/leonardopaza/cursoIOS11/master/Uber%20Clone/Screenshots/UberCloneiPhone5s_1.png" width="150"> <img src="https://raw.githubusercontent.com/leonardopaza/cursoIOS11/master/Uber%20Clone/Screenshots/UberCloneiPhone8_3.png" width="150"> <img src="https://raw.githubusercontent.com/leonardopaza/cursoIOS11/master/Uber%20Clone/Screenshots/UberCloneiPhone8_4.png" width="150"> <img src="https://raw.githubusercontent.com/leonardopaza/cursoIOS11/master/Uber%20Clone/Screenshots/UberCloneiPhone5s_2.png" width="150"> <img src="https://raw.githubusercontent.com/leonardopaza/cursoIOS11/master/Uber%20Clone/Screenshots/UberCloneiPhone8_5.png" width="150"> <img src="https://raw.githubusercontent.com/leonardopaza/cursoIOS11/master/Uber%20Clone/Screenshots/UberCloneiPhone5s_3.png" width="150"> <img src="https://raw.githubusercontent.com/leonardopaza/cursoIOS11/master/Uber%20Clone/Screenshots/UberCloneiPhone8_6.png" width="150"> <img src="https://raw.githubusercontent.com/leonardopaza/cursoIOS11/master/Uber%20Clone/Screenshots/UberCloneiPhone8_7.png" width="150">
 
 ## WhatsApp Clone ##
+* App Estilo da rede social whatsapp com uso de firebase.
 * Para funcionamento do projeto de WhatsAppClone necessário arquivo de configuração do seu projeto do firebase dentro do seu projeto do xcode, com o projeto aberto, você com o arquivo pode arrastá-lo para o projeto logo abaixo de seu arquivo info.plist.
 * Lembrando que deve-se ativar no firebase a opção de autenticar com email e senha, e ainda ativar os recursos de database e storage!
+* Screenshots do WhatsApp Clone:
+<br/>  <img src="https://raw.githubusercontent.com/leonardopaza/cursoIOS11/master/WhatsApp%20Clone/Screenshots/WhatsappCloneiPhone8_1.png" width="150"> <img src="https://raw.githubusercontent.com/leonardopaza/cursoIOS11/master/WhatsApp%20Clone/Screenshots/WhatsappCloneiPhone8_2.png" width="150"> <img src="https://raw.githubusercontent.com/leonardopaza/cursoIOS11/master/WhatsApp%20Clone/Screenshots/WhatsappCloneiPhone8_3.png" width="150">
 
 ## APP01 ##
 * Primeiro App do curso onde se calcula a idade do cachorro numa simples interface.
