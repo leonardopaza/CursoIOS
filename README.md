@@ -35,10 +35,30 @@ Projetos do curso de IOS 11.
 
 ## APP05 ##
 * Quinto App do curso onde se faz uma simulação de um app de consultoria numa interface com navegação.
-* Screenshot do APP05:
+* Screenshots do APP05:
 <br/>  <img src="https://raw.githubusercontent.com/leonardopaza/cursoIOS11/master/APP05/Screenshots/APP05iPhone8_1.png" width="150"> <img src="https://raw.githubusercontent.com/leonardopaza/cursoIOS11/master/APP05/Screenshots/APP05iPhone8_2.png" width="150"> <img src="https://raw.githubusercontent.com/leonardopaza/cursoIOS11/master/APP05/Screenshots/APP05iPhone8_3.png" width="150">
 
 ## APP06 ##
 * Sexto App do curso onde se faz jogo de cara ou coroa.
-* Screenshot do APP06:
+* Screenshots do APP06:
 <br/>  <img src="https://raw.githubusercontent.com/leonardopaza/cursoIOS11/master/APP06/Screenshots/APP06iPhone8_1.png" width="150"> <img src="https://raw.githubusercontent.com/leonardopaza/cursoIOS11/master/APP06/Screenshots/APP06iPhone8_2.png" width="150">
+
+## APP07 ##
+* Sétimo App do curso onde se faz um app com table view dos signos.
+* Screenshots do APP07:
+<br/>  <img src="https://raw.githubusercontent.com/leonardopaza/cursoIOS11/master/APP07/Screenshots/APP07iPhone8_1.png" width="150"> <img src="https://raw.githubusercontent.com/leonardopaza/cursoIOS11/master/APP07/Screenshots/APP07iPhone8_2.png" width="150">
+
+## APP08 ##
+* Oitavo App do curso onde se faz um app com table view de lista de filmes e tela de detalhes.
+* Screenshots do APP08:
+<br/>  <img src="https://raw.githubusercontent.com/leonardopaza/cursoIOS11/master/APP08/Screenshots/APP08iPhone8_1.png" width="150"> <img src="https://raw.githubusercontent.com/leonardopaza/cursoIOS11/master/APP08/Screenshots/APP08iPhone8_2.png" width="150">
+
+## APP09 ##
+* Nono App do curso onde se faz um app de anotações.
+* Screenshot do APP09:
+<br/>  <img src="https://raw.githubusercontent.com/leonardopaza/cursoIOS11/master/APP09/Screenshots/APP09iPhone8.png" width="150">
+
+## APP10 ##
+* Décimo App do curso onde se faz um app com table view de lista de tarefas.
+* Screenshots do APP10:
+<br/>  <img src="https://raw.githubusercontent.com/leonardopaza/cursoIOS11/master/APP10/Screenshots/APP10iPhone8_1.png" width="150"> <img src="https://raw.githubusercontent.com/leonardopaza/cursoIOS11/master/APP10/Screenshots/APP10iPhone8_2.png" width="150">
