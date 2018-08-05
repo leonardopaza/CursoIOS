@@ -15,9 +15,9 @@ class ViewController: UIViewController {
     @IBAction func novaFrase(_ sender: Any) {
         
         var frases: [String] = []
-        frases.append("Ah eu cansei de estudar, mas quem ta começando é bom estudar bastante!")
-        frases.append("Tu é um pau no cu djow!")
-        frases.append("Pra sair tomar uma gelada com os parsa, não dá!")
+        frases.append("A vida é um constante recomeço. Não se dê por derrotado e siga adiante. As pedras que hoje atrapalham sua caminhada amanhã enfeitarão a sua estrada!")
+        frases.append("Não tenha medo da mudança. Coisas boas se vão para que melhores possam vir!")
+        frases.append("No fim tudo dá certo, e se não deu certo é porque ainda não chegou ao fim!")
         
         legendaResultado.text = frases[Int(arc4random_uniform(3))]
     }
