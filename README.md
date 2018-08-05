@@ -62,3 +62,28 @@ Projetos do curso de IOS 11.
 * Décimo App do curso onde se faz um app com table view de lista de tarefas.
 * Screenshots do APP10:
 <br/>  <img src="https://raw.githubusercontent.com/leonardopaza/cursoIOS11/master/APP10/Screenshots/APP10iPhone8_1.png" width="150"> <img src="https://raw.githubusercontent.com/leonardopaza/cursoIOS11/master/APP10/Screenshots/APP10iPhone8_2.png" width="150">
+
+## APP11 ##
+* Décimo-Primeiro App do curso onde se faz um app para saber a localização do usuário.
+* Screenshot do APP11:
+<br/>  <img src="https://raw.githubusercontent.com/leonardopaza/cursoIOS11/master/APP11/Screenshots/APP11iPhone8.png" width="150">
+
+## APP12 ##
+* Décimo-Segundo App do curso onde se faz um app com table view de lista viagens, marcando as viagens que foram feitas em um mapa.
+* Screenshots do APP12:
+<br/>  <img src="https://raw.githubusercontent.com/leonardopaza/cursoIOS11/master/APP12/Screenshots/APP12iPhone8_1.png" width="150"> <img src="https://raw.githubusercontent.com/leonardopaza/cursoIOS11/master/APP12/Screenshots/APP12iPhone8_2.png" width="150">
+
+## APP13 ##
+* Décimo-Terceiro App do curso onde se faz um app com table view de notas diárias.
+* Screenshots do APP13:
+<br/>  <img src="https://raw.githubusercontent.com/leonardopaza/cursoIOS11/master/APP13/Screenshots/APP13iPhone8_1.png" width="150"> <img src="https://raw.githubusercontent.com/leonardopaza/cursoIOS11/master/APP13/Screenshots/APP13iPhone8_2.png" width="150">
+
+## APP14 ##
+* Décimo-Quarto App do curso onde se faz um app com execução de áudio do som dos bichos.
+* Screenshot do APP14:
+<br/>  <img src="https://raw.githubusercontent.com/leonardopaza/cursoIOS11/master/APP14/Screenshots/APP14iPhone8.png" width="150">
+
+## APP15 ##
+* Décimo-Quinto App do curso onde se faz um app com consulta do preço do bitcoin.
+* Screenshot do APP15:
+<br/>  <img src="https://raw.githubusercontent.com/leonardopaza/cursoIOS11/master/APP15/Screenshots/APP15iPhone8.png" width="150">
