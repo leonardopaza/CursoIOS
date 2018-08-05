@@ -22,3 +22,13 @@ Projetos do curso de IOS 11.
 * Segundo App do curso onde se gera um número randômico numa simples interface com animação do botão.
 * Screenshot do APP02:
 <br/>  <img src="https://raw.githubusercontent.com/leonardopaza/cursoIOS11/master/APP02/Screenshots/APP02iPhone8.png" width="150">
+
+## APP03 ##
+* Terceiro App do curso onde se gera uma frase do dia randômica numa simples interface.
+* Screenshot do APP03:
+<br/>  <img src="https://raw.githubusercontent.com/leonardopaza/cursoIOS11/master/APP03/Screenshots/APP03iPhone8.png" width="150">
+
+## APP04 ##
+* Quarto App do curso onde se calcula o que vale mais a pena entre álcool ou gasolina numa simples interface.
+* Screenshot do APP04:
+<br/>  <img src="https://raw.githubusercontent.com/leonardopaza/cursoIOS11/master/APP04/Screenshots/APP04iPhone8.png" width="150">
