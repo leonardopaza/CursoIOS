@@ -37,3 +37,8 @@ Projetos do curso de IOS 11.
 * Quinto App do curso onde se faz uma simulação de um app de consultoria numa interface com navegação.
 * Screenshot do APP05:
 <br/>  <img src="https://raw.githubusercontent.com/leonardopaza/cursoIOS11/master/APP05/Screenshots/APP05iPhone8_1.png" width="150"> <img src="https://raw.githubusercontent.com/leonardopaza/cursoIOS11/master/APP05/Screenshots/APP05iPhone8_2.png" width="150"> <img src="https://raw.githubusercontent.com/leonardopaza/cursoIOS11/master/APP05/Screenshots/APP05iPhone8_3.png" width="150">
+
+## APP06 ##
+* Sexto App do curso onde se faz jogo de cara ou coroa.
+* Screenshot do APP06:
+<br/>  <img src="https://raw.githubusercontent.com/leonardopaza/cursoIOS11/master/APP06/Screenshots/APP06iPhone8_1.png" width="150"> <img src="https://raw.githubusercontent.com/leonardopaza/cursoIOS11/master/APP06/Screenshots/APP06iPhone8_2.png" width="150">
