@@ -17,3 +17,8 @@ Projetos do curso de IOS 11.
 * Primeiro App do curso onde se calcula a idade do cachorro numa simples interface.
 * Screenshot do APP01:
 <br/>  <img src="https://raw.githubusercontent.com/leonardopaza/cursoIOS11/master/APP01/Screenshots/APP01iPhone8.png" width="150">
+
+## APP02 ##
+* Segundo App do curso onde se gera um número randômico numa simples interface com animação do botão.
+* Screenshot do APP02:
+<br/>  <img src="https://raw.githubusercontent.com/leonardopaza/cursoIOS11/master/APP02/Screenshots/APP02iPhone8.png" width="150">
