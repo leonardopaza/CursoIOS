@@ -1,5 +1,5 @@
-# Curso IOS11
-Projetos do curso de IOS 11 com Swift.
+# Curso IOS
+Projetos do curso de IOS com Swift.
 
 ## Pokemon GO Clone ##
 * Versão simples do famoso jogo mobile de Pokemon.
